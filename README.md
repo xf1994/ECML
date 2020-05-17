@@ -14,3 +14,6 @@ Matlab is needed for running for this code. Besides, face feature used in this p
 
 ## configuration
 To config the code, simply modify the 'opt' structutre in ECRMML.m, where you can choose the layers and core linear metric learning method for ECML.
+
+## run the code 
+To config the code, simply run ECRMML.m in matlab, and you will obtain the result in our paper.
